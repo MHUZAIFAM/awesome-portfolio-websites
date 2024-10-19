@@ -6,28 +6,25 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    title: "Snake Game",
+    cardImage: "assets/images/project-page/SNAKE.png",
+    description: "Snake Game Built for entertainment and concepts using python.",
+    tagimg: "https://www.python.org/community/logos/python-logo-master-v3-TM.png", //tag image for python
+    Githublink: "https://github.com/MHUZAIFAM/Projects/tree/main/Snake%20Game%20Python",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    title: "Customer Churn Prediction",
+    cardImage: "assets/images/project-page/CUSTOMER CHURN PREDICTION.jpg",
+    description: "Customer churn prediction uses data analytics to identify customers likely to leave, helping businesses retain them.",
+    tagimg: "https://raw.githubusercontent.com/jupyter/design/master/logos/pm/JupyterLogo.svg", //tag image for Jupyter Notebook
+    Githublink: "https://github.com/MHUZAIFAM/100DaysOfBytewise/tree/main/Project%20Customer%20Churn%20Prediction",
   },
   {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    title: "AI-Powered Traffic Flow and Accident Prediction System",
+    cardImage: "assets/images/project-page/ACCIDENT PREDICTION.jpg",
+    description: "Accident Prediction System using CNN and LSTMs",
+    tagimg: "https://miro.medium.com/v2/resize:fit:1200/format:webp/1*J9N1MDLgHKX2VQH-XfOi7w.png", // Example CNN diagram
+    Githublink: "https://github.com/MHUZAIFAM/100DaysOfBytewise/tree/main/Final%20Project",
   },
   {
     title: "Exercise Tracker",

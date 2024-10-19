@@ -4,147 +4,78 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Farilty Detection in Elderly Peoply using Feedback",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Muhammad Huzaifa, Wajiha Ali",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "",
+    researchYr: 2024,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/FRAILTY.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Muhammad Huzaifa, Wajiha Ali. Farilty Detection in Elderly Peoply using Feedback via Machine Learning and Computervision 2024.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "This project aims to develop a non-invasive computer vision system for detecting frailty among older adults in the Japanese community. By employing machine learning algorithms to analyze video data, the system will assess physical parameters such as mobility and joint angles. The objective is to provide an accurate, real-time evaluation of frailty, enabling personalized exercise recommendations. This innovative approach has the potential to improve the quality of life for older adults by facilitating early intervention and targeted rehabilitation strategies.",
     absbox: "absPopup1",
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "Fault Detection of an Induction Motor and its analysis using Digital Twin",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "Muhammad Huzaifa, Wajiha Ali",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "",
+    researchYr: 2024,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "assets/images/research-page/IMDT.jpg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Muhammad Huzaifa, Wajiha Ali. Fault Detection of an Induction Motor and its analysis using Digital Twin 2024.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "This project presents the development of a digital twin for an induction motor, leveraging strategic sensor placement to facilitate real-time monitoring and predictive maintenance. By integrating various sensors—such as vibration, temperature, current, and speed—data is continuously collected to accurately represent the motor's operational characteristics. The digital twin model utilizes advanced data processing techniques, including machine learning algorithms, to analyze performance metrics and identify potential anomalies. This approach not only enhances the understanding of motor behavior but also enables timely interventions, thereby optimizing efficiency and reducing downtime. Ultimately, the digital twin serves as a powerful tool for improving the management and operational reliability of induction motors in industrial applications.",
     absbox: "absPopup2",
   },
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "7 Element Circular Polarized Antenna",
+    authors: "Muhammad Huzaifa, Wajiha Ali",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "",
+    researchYr: 2023,
     citebox: "popup3",
-    image: "assets/images/research-page/wordRepresentation.png",
+    image: "assets/images/research-page/HFSS.jpg",
     citation: {
       vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Muhammad Huzaifa, Wajiha Ali. Circular Polarization of a 7 Element Array Antenna 2023.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 3",
+      "Enhancing proficiency with ANSYS HFFS, a pivotal tool for antenna design and simulation, is key to deepening insights into RF technology. This experience solidifies skills in electromagnetic simulation, laying a sturdy foundation for future aspirations in this dynamic field.",
     absbox: "absPopup3",
   },
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "Advancements in Modular Networking: Contributions to Edgecore's CASSINI Project",
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      "Muhammad Huzaifa, Wajiha Ali",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "",
+    researchYr: 2023,
     citebox: "popup4",
-    image: "assets/images/research-page/dialogueState.png",
+    image: "assets/images/research-page/CASSINI.jpg",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Muhammad Huzaifa, Wajiha Ali. Advancements in Modular Networking: Contributions to Edgecore's CASSINI Project 2023.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 4",
+      "Working on Edgecore's CASSINI, the world's first modular open networking packet transponder, provided valuable insights into node transmission and VLAN creation. This experience enhanced understanding of computer networks, VLANs, and computer traffic management.",
     absbox: "absPopup4",
   },
 
-  {
-    title: "Dual Super-Resolution Learning for Semantic Segmentation",
-    authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup5",
-    image: "assets/images/research-page/semanticSegmentation.png",
-    citation: {
-      vancouver:
-        "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 5",
-    absbox: "absPopup5",
-  },
-
-  {
-    title: "Deep Unfolding Network for Image Super-Resolution",
-    authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup6",
-    image: "assets/images/research-page/deepNetwork.png",
-    citation: {
-      vancouver:
-        "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 6",
-    absbox: "absPopup6",
-  },
-
-  {
-    title:
-      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
-    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup7",
-    image: "assets/images/research-page/imageDecomposition.png",
-    citation: {
-      vancouver:
-        "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 7",
-    absbox: "absPopup7",
-  },
-  {
-    title:
-      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
-    authors:
-      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
-    conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
-    citebox: "popup8",
-    image: "assets/images/research-page/neuralNetworks.jpg",
-    citation: {
-      vancouver:
-        "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 8",
-    absbox: "absPopup8",
-  },
 ];
 AOS.init();
 const fillData = () => {

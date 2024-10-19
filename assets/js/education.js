@@ -41,7 +41,7 @@ const moocscards = [
   },
   {
     title: "MATLAB ONRAMP",
-    cardImage: "assets/images/education-page/MATLAB.jpg",
+    cardImage: "assets/images/education-page/MATLAB.png",
     moocLink:
       "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
   },

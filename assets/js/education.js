@@ -7,43 +7,42 @@ const moocscards = [
     {
     title: "Introduction To Machine Learning",
     cardImage: "assets/images/education-page/COURSERA.jpg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://drive.google.com/file/d/11Noyyi4rVGynRba_UhTOYN4Iy1N4qCSp/view?usp=drive_link",
   },
   {
     title: "Introduction To Artificial Intelligence",
     cardImage: "assets/images/education-page/COURSERA.jpg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://drive.google.com/file/d/1rr1ktqZyiMu9M_QNJ4zsVf_hjIosCbwk/view?usp=drive_link",
   },
   {
     title: "Applied AI with DeepLearning",
     cardImage: "assets/images/education-page/COURSERA.jpg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://drive.google.com/file/d/16FvApSSm87XpoJumq4K_eDEUanQhy3ic/view?usp=drive_link",
   },
   {
     title: "Introduction to Tensorflow for AI for Machine Learning and Deep Learning",
     cardImage: "assets/images/education-page/COURSERA.jpg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://drive.google.com/file/d/17G1p7WNYBG22QKe_a2uUcgILPbuyQJYH/view?usp=drive_link",
   },
   {
     title: "AI in Healthcare Capstone",
     cardImage: "assets/images/education-page/STANFORD.png",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    moocLink: "https://drive.google.com/file/d/1pNxSKX04SDQBnwQBP2Aa7p8MXVnCI9Hl/view?usp=drive_link",
   },
   {
     title: "Fundamentals of Machine Learning for Healthcare",
     cardImage: "assets/images/education-page/STANFORD.png",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://drive.google.com/file/d/1K5LiY-fT4HSKomVFgs7Sks48crRrKiU0/view?usp=drive_link",
   },
   {
     title: "Introduction to Healthcare",
     cardImage: "assets/images/education-page/STANFORD.png",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    moocLink: "https://drive.google.com/file/d/1iiwic_r6DUbrAPm2cm5yhHBf5Z5XP0OU/view?usp=drive_link",
   },
   {
     title: "MATLAB ONRAMP",
-    cardImage: "assets/images/education-page/MATLAB.png",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    cardImage:"assets/images/education-page/MATLAB.png",
+    moocLink: "https://drive.google.com/file/d/1jizQ66N-NzUITrMwag7PnPEo8VfOM1Uc/view?usp=drive_link",
   },
 ];
 

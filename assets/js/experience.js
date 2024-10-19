@@ -77,15 +77,21 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Google Summers of Code 2023",
-    cardImage: "assets/images/experience-page/GOOGLE CODE OF SUMMERS.jpg",
+    cardImage: "assets/images/experience-page/GOOGLE CODE OF SUMMERS.png",
     description:
-      "Empowers students to contribute to open-source projects, providing hands-on experience in software development while fostering a collaborative community spirit.",
+      "Empowers students to contribute to open-source projects and gain hands-on software development experience.",
   },
   {
     title: "ByteWise Summer of Code 2024",
     cardImage: "assets/images/experience-page/BYTEWISE.png",
     description:
       "Contributing to Machine Learning, Deep Learning and Neural Networks.",
+  },
+   {
+    title: "CodeSoft",
+    cardImage: "assets/images/experience-page/CODESOFT.png",
+    description:
+      "Contributing to Python Programming and Machine Learning.",
   },
   ];
 
